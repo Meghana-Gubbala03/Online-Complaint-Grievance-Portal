@@ -1,0 +1,72 @@
+.landing-container {
+  font-family: "Poppins", sans-serif;
+  text-align: center;
+  padding: 20px;
+  background: linear-gradient(180deg, #f6f9ff 0%, #fff 100%);
+}
+
+.hero {
+  background: #fff;
+  border-radius: 16px;
+  padding: 40px;
+  max-width: 700px;
+  margin: 30px auto;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+.hero h1 {
+  font-size: 2rem;
+  color: #003366;
+}
+
+.hero p {
+  color: #333;
+  margin-top: 12px;
+}
+
+.hero-buttons {
+  margin-top: 20px;
+}
+
+.btn-primary {
+  background-color: #1e90ff;
+  color: white;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-right: 12px;
+}
+
+.btn-secondary {
+  background-color: white;
+  border: 1px solid #1e90ff;
+  color: #1e90ff;
+  padding: 12px 20px;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.steps {
+  margin-top: 60px;
+}
+
+.step-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.card {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  padding: 20px;
+  width: 250px;
+}
+
+footer {
+  margin-top: 50px;
+  color: #666;
+  font-size: 0.9rem;
+}
