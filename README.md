@@ -9,7 +9,7 @@ It ensures transparency, accountability, and quick redressal by enabling role-ba
 
 ## 📸 Demo Video
 
-🎥 [Click here to watch the demo](https://your-demo-video-link.com)
+🎥 [Click here to watch the demo]([https://your-demo-video-link.com](https://github.com/Meghana-Gubbala03/Online-Complaint-Grievance-Portal/blob/main/recording.mp4))
 
 
 ## 🧠 How It Works
